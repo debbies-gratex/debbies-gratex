@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @debbies-gratex
 - 👀 This is my work github account
-- 💞️ I’m looking to collaborate on Dynamics NAV CAL to AL upgrade
+- 💞️ I’m looking to collaborate on Dynamics NAV CAL to AL upgrade as an analyst/tester
 - 📫 debbies@gratex.com.au
 <!---
 debbies-gratex/debbies-gratex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
